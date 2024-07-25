@@ -1,4 +1,4 @@
-![GIF Description](your_cool_intro(1).gif)
+![Your Cool Intro](https://path_to_your_gif/your_cool_intro(1).gif)
 <h3 align="center">software developer from uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrabaydev&label=Profile%20views&color=0e75b6&style=flat" alt="mrabaydev" /> </p>
