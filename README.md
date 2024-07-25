@@ -1,4 +1,4 @@
-![Your Cool Intro](https://github.com/username/repository-name/blob/main/path/to/your_cool_intro.gif)
+![Your Cool Intro](https://github.com/username/repository-name/raw/main/path/to/your_cool_intro.gif)
 
 <h3 align="center">software developer from uzbekistan</h3>
 
