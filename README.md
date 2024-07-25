@@ -68,5 +68,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrabaydev&show_icons=true&locale=en" alt="mrabaydev" />
 </p>
-
-![Contribution Snake](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
+ 
+</div>
