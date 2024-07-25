@@ -1,5 +1,3 @@
-![Your Cool Intro](https://github.com/username/repository-name/raw/main/path/to/your_cool_intro.gif)
-
 <h3 align="center">Software Developer from Uzbekistan</h3>
 
 <p align="left">
@@ -68,7 +66,4 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrabaydev&show_icons=true&locale=en" alt="mrabaydev" />
 </p>
-<div>
-  ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
+
